@@ -1,2 +1,4 @@
-package jpabook.jpashop;public class Hello {
+package jpabook.jpashop;
+
+public class Hello {
 }
